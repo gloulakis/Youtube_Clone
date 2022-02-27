@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Tranquility",
+        "short_description": "Chill vibes ASMR soap cutting",
+        "thumbnail_name": "thumbnail1",
+        "owner_avatar": "avatar1",
+        "video_duration": "28:34",
+        "views": "3M views",
+        "created": "5 days ago"
+    },
+    {
+        "id": 2,
+        "title": "Summer stuff",
+        "short_description": "Rando Girl on the Net",
+        "thumbnail_name": "thumbnail2",
+        "owner_avatar": "avatar2",
+        "video_duration": "04:20",
+        "views": "360 views",
+        "created": "4 months ago"
+    },
+    {
+        "id": 3,
+        "title": "WILD CIRCLE APPEARS ON BLACK PAPER",
+        "short_description": "HOW-TO LIVE YOUR LIFE",
+        "thumbnail_name": "thumbnail3",
+        "owner_avatar": "avatar3",
+        "video_duration": "06:56",
+        "views": "10M views",
+        "created": "5 months ago"
+    },
+    {
+        "id": 4,
+        "title": "Bob Ross - Autumn Forest in the Lake",
+        "short_description": "Bob Ross",
+        "thumbnail_name": "thumbnail4",
+        "owner_avatar": "avatar4",
+        "video_duration": "06:56",
+        "views": "18M views",
+        "created": "2 years ago"
+    },
+    {
+        "id": 5,
+        "title": "Vintage camera review - Totally Legit",
+        "short_description": "Camera pro",
+        "thumbnail_name": "thumbnail5",
+        "owner_avatar": "avatar5",
+        "video_duration": "10:01",
+        "views": "1 604 views",
+        "created": "3 months ago"
+    }
+]
